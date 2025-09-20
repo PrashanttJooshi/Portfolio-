@@ -1,52 +1,46 @@
+<h1 align="center">🌐 My Portfolio Website</h1>
+<h3 align="center">✨ Showcasing my Projects, Skills, and Experience</h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrashanttJooshi/portfolio/main/assets/banner.gif" alt="Portfolio Banner" width="100%" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">🌐 Prashant Joshi — Portfolio Website</h1>
-
 <p align="center">
-  <a href="https://share.google/a44M5QEnnbDIJgwsa" target="_blank">🚀 Live Demo</a> •
-  <a href="https://github.com/PrashanttJooshi" target="_blank">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/prashanttjooshi" target="_blank">🔗 LinkedIn</a>
+  <a href="https://share.google/a44M5QEnnbDIJgwsa">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="mailto:princejoshi902226@gmail.com">
+    <img src="https://img.shields.io/badge/Email-princejoshi902226@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/prashanttjooshi">
+    <img src="https://img.shields.io/badge/LinkedIn-Prashant%20Joshi-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/PrashanttJooshi">
+    <img src="https://img.shields.io/badge/GitHub-PrashanttJooshi-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## ✨ About
+## 🚀 About the Project
 
 This is my **personal portfolio website** built with **HTML, CSS, and JavaScript**.  
-It showcases my **skills, projects, internships, certifications, and professional journey** in a modern, responsive design with smooth animations and dark/light mode support.  
+It includes all the essentials that define me as a professional:
+
+- 🖼️ **Home & About Section** — Quick intro and highlights  
+- 💻 **Skills Showcase** — Animated skill bars & counters  
+- 📂 **Projects Section** — Links to my best projects with descriptions  
+- 🎓 **Experience & Education** — My career & academic timeline  
+- 🏆 **Certificates** — Highlights of completed certifications  
+- ✉️ **Contact Form** — With validation & responsive design  
+- 🌗 **Dark/Light Theme Toggle** — User-friendly, saved in `localStorage`  
 
 ---
 
-## 🎯 Features
+## 💻 Tech Stack
 
-- 📱 **Responsive Design** — Works across all devices.  
-- 🌗 **Dark/Light Theme Toggle** — Saved in `localStorage`.  
-- ⌨️ **Typing Animation** — Dynamic text highlighting roles.  
-- 📊 **Animated Counters & Skill Bars** — Smooth progress animations.  
-- 🖱️ **Smooth Scroll Navigation** — Easy section jumps with active highlighting.  
-- ✉️ **Validated Contact Form** — Client-side validation + success feedback.  
-- ♿ **Accessibility** — ARIA labels, skip links, and keyboard support.  
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: HTML5, CSS3, Vanilla JavaScript  
-- **Styling**: CSS Animations, Font Awesome, Google Fonts  
-- **Deployment**: (update here — Netlify / Vercel / GitHub Pages / AWS)  
-
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PrashanttJooshi/portfolio/main/assets/demo.gif" alt="Portfolio Demo" width="80%" />
-</p>
-
-> 💡 *Tip: Add your own screenshot(s) or a GIF demo under `/assets` and update the paths above.*
-
----
-
-## 📂 Project Structure
+```yaml
+Frontend     : HTML5, CSS3, JavaScript
+UI/UX        : CSS Animations, Responsive Design, Font Awesome
+Deployment   : Netlify / Vercel / GitHub Pages / AWS (update your host here)
+Version Ctrl : Git, GitHub

@@ -1,42 +1,49 @@
-# Portfolio-
-Personal portfolio website built with HTML, CSS, and JavaScript showcasing projects, skills, internships, and professional experience. Fully responsive with dark/light theme support.
-# 🌐 Personal Portfolio — Prashant Joshi
+<p align="center">
+  <img src="https://your-domain.com/banner-animation.gif" alt="Portfolio Animation Banner" width="100%" />
+</p>
 
-**Live Demo:** [View Portfolio](https://share.google/a44M5QEnnbDIJgwsa)  
-**Author:** Prashant Joshi  
+<h1 align="center">Prashant Joshi — Portfolio Website</h1>
 
----
-
-## 📖 About
-This is my personal portfolio website built with **HTML, CSS, and JavaScript**.  
-It highlights my background, technical skills, projects, professional experience, and certifications.  
-The portfolio is fully responsive, with a clean modern UI and support for **dark/light themes**.
+<p align="center">
+  <a href="https://share.google/a44M5QEnnbDIJgwsa" target="_blank">Live Demo 🌐</a> |
+  <a href="https://github.com/PrashantUsername/portfolio" target="_blank">Source Code 💻</a>
+</p>
 
 ---
 
-## ✨ Features
-- ⚡ **Responsive Design** — Works across devices and screen sizes.  
-- 🎨 **Theme Toggle** — Switch between light and dark mode (saved in `localStorage`).  
-- 🖱️ **Smooth Navigation** — Accessible and keyboard-friendly menu with smooth scrolling.  
-- ⌨️ **Typing Animation** — Dynamic text that highlights my roles (Data Science Enthusiast, ML Engineer, etc.).  
-- 📊 **Animated Skill Bars & Stats** — Progress bars and counters for skills and achievements.  
-- 🗂️ **Projects Showcase** — Links to GitHub repositories of my major projects.  
-- 📜 **Experience & Education Timeline** — Professional journey in a clean layout.  
-- ✉️ **Contact Form** — Client-side validation with success feedback.  
-- ♿ **Accessibility** — Skip links, ARIA labels, and keyboard navigation support.  
+## 🎯 About Me
+
+I’m **Prashant Joshi**, a Computer Science Engineer with a passion for building sleek, performant, and UI-rich web experiences.  
+This portfolio website is built from scratch using **HTML, CSS, JavaScript**, and features responsive design, dark/light theme, smooth animations, counters, skill bars & more.
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript (Vanilla)  
-- **UI/UX Enhancements:** Font Awesome, Google Fonts  
-- **Hosting:** Deployed on (Netlify / Vercel / GitHub Pages / AWS — update accordingly)  
+## ✨ Key Features
+
+| Feature | Description |
+|:--|:--|
+| **Responsive & Mobile Friendly** | Adapts to all device sizes — phone, tablet, desktop |
+| **Theme Toggle (Light / Dark)** | Clean design, user-controlled theme |
+| **Typing Animation** | Dynamic typing effect to highlight roles |
+| **Animated Counters & Skill Bars** | Visual feedback for skills and achievements |
+| **Smooth Scrolling & Navigation** | Easy navigation between sections via menu links |
+| **Contact Form Validation** | Simple, client-side checks for form inputs |
 
 ---
 
-## 🚀 Getting Started
+## 🔧 Tech Stack
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
+- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)  
+- **UI Enhancements**: CSS Animations, Responsive Layouts  
+- **Deployed on**: _(e.g. Netlify / Vercel / GitHub Pages / your host)_  
+
+---
+
+## 📸 Demo Preview
+
+![Portfolio Demo GIF](./assets/demo.gif)  
+> *(Use a GIF or short video clip to showcase animations, scrolling, theme toggle etc.)*
+
+---
+
+## 🗂️ Project Structure

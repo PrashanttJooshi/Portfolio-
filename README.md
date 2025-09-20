@@ -2,7 +2,7 @@
 <h3 align="center">✨ Showcasing my Projects, Skills, and Experience</h3>
 
 <p align="center">
-  <img src="https://www.yukai.art/animation.gif" width="300" />
+  <img src="https://github.com/yourusername/yourrepository/raw/main/assets/youranimation.gif" width="300" />
 </p>
 
 <p align="center">

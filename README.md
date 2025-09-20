@@ -1,49 +1,52 @@
 <p align="center">
-  <img src="https://your-domain.com/banner-animation.gif" alt="Portfolio Animation Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/PrashanttJooshi/portfolio/main/assets/banner.gif" alt="Portfolio Banner" width="100%" />
 </p>
 
-<h1 align="center">Prashant Joshi — Portfolio Website</h1>
+<h1 align="center">🌐 Prashant Joshi — Portfolio Website</h1>
 
 <p align="center">
-  <a href="https://share.google/a44M5QEnnbDIJgwsa" target="_blank">Live Demo 🌐</a> |
-  <a href="https://github.com/PrashantUsername/portfolio" target="_blank">Source Code 💻</a>
+  <a href="https://share.google/a44M5QEnnbDIJgwsa" target="_blank">🚀 Live Demo</a> •
+  <a href="https://github.com/PrashanttJooshi" target="_blank">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/prashanttjooshi" target="_blank">🔗 LinkedIn</a>
 </p>
 
 ---
 
-## 🎯 About Me
+## ✨ About
 
-I’m **Prashant Joshi**, a Computer Science Engineer with a passion for building sleek, performant, and UI-rich web experiences.  
-This portfolio website is built from scratch using **HTML, CSS, JavaScript**, and features responsive design, dark/light theme, smooth animations, counters, skill bars & more.
-
----
-
-## ✨ Key Features
-
-| Feature | Description |
-|:--|:--|
-| **Responsive & Mobile Friendly** | Adapts to all device sizes — phone, tablet, desktop |
-| **Theme Toggle (Light / Dark)** | Clean design, user-controlled theme |
-| **Typing Animation** | Dynamic typing effect to highlight roles |
-| **Animated Counters & Skill Bars** | Visual feedback for skills and achievements |
-| **Smooth Scrolling & Navigation** | Easy navigation between sections via menu links |
-| **Contact Form Validation** | Simple, client-side checks for form inputs |
+This is my **personal portfolio website** built with **HTML, CSS, and JavaScript**.  
+It showcases my **skills, projects, internships, certifications, and professional journey** in a modern, responsive design with smooth animations and dark/light mode support.  
 
 ---
 
-## 🔧 Tech Stack
+## 🎯 Features
 
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)  
-- **UI Enhancements**: CSS Animations, Responsive Layouts  
-- **Deployed on**: _(e.g. Netlify / Vercel / GitHub Pages / your host)_  
-
----
-
-## 📸 Demo Preview
-
-![Portfolio Demo GIF](./assets/demo.gif)  
-> *(Use a GIF or short video clip to showcase animations, scrolling, theme toggle etc.)*
+- 📱 **Responsive Design** — Works across all devices.  
+- 🌗 **Dark/Light Theme Toggle** — Saved in `localStorage`.  
+- ⌨️ **Typing Animation** — Dynamic text highlighting roles.  
+- 📊 **Animated Counters & Skill Bars** — Smooth progress animations.  
+- 🖱️ **Smooth Scroll Navigation** — Easy section jumps with active highlighting.  
+- ✉️ **Validated Contact Form** — Client-side validation + success feedback.  
+- ♿ **Accessibility** — ARIA labels, skip links, and keyboard support.  
 
 ---
 
-## 🗂️ Project Structure
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML5, CSS3, Vanilla JavaScript  
+- **Styling**: CSS Animations, Font Awesome, Google Fonts  
+- **Deployment**: (update here — Netlify / Vercel / GitHub Pages / AWS)  
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrashanttJooshi/portfolio/main/assets/demo.gif" alt="Portfolio Demo" width="80%" />
+</p>
+
+> 💡 *Tip: Add your own screenshot(s) or a GIF demo under `/assets` and update the paths above.*
+
+---
+
+## 📂 Project Structure
